@@ -1,0 +1,33 @@
+{
+  "name": "flyd-every",
+  "version": "0.0.1",
+  "description": "Takes a time interval t and creates a stream of the current time updated every t",
+  "main": "every.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "flyd": "^0.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paldepind/flyd-every.git"
+  },
+  "keywords": [
+    "flyd",
+    "every",
+    "time",
+    "interval",
+    "repeat"
+  ],
+  "author": "Simon Friis Vindum",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/paldepind/flyd-every/issues"
+  },
+  "homepage": "https://github.com/paldepind/flyd-every#readme"
+}
