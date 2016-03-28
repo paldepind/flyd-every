@@ -11,6 +11,6 @@ __Usage__
 var everySecond = every(1000);
 flyd.map(function(time) {
   // I'm called once every second
-  console.log('Current time is, time);
+  console.log('Current time is, time');
 }, everySecond);
 ```
